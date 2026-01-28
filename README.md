@@ -3,7 +3,12 @@
 </div>
 
 <h1 align="center">👋 Hi, I'm Pratikshit.</h1>
-<h3 align="center">Building the Data Future</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Data+Engineer+specializing+in+Databricks;Crafting+Scalable+PySpark+Pipelines;Building+GenAI+SaaS+Solutions;Musician+%26+Creative+Designer" alt="Typing SVG" />
+  </a>
+</p>
 
 ## Hi, I'm a Data Engineer 👋
 
