@@ -1,16 +1,10 @@
-## Hi there 👋
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Building%20the%20Data%20Future&fontSize=70&fontColor=00f2ff&fontAlign=50&animation=fadeIn&desc=Data%20Engineer%20|%20GenAI%20Builder%20|%20Creative%20Mind&descAlign=50&descFontSize=20" alt="Header" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00f2ff&background=000000&center=true&vCenter=true&width=600&height=100&lines=SELECT+*+FROM+world+WHERE+engineer+%3D+'Pratikshit';Crafting+Scalable+PySpark+Pipelines...;Loading+GenAI+Models...;Done." alt="Terminal Header" />
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Data+Engineer+specializing+in+Azure+Databricks;Crafting+Scalable+PySpark+Pipelines;Building+GenAI+SaaS+Solutions;Musician+%26+Creative+Designer" alt="Typing SVG" />
-  </a>
-</p>
-
-# Hi, I'm a Data Engineer.
+<h1 align="center">👋 Hi, I'm Pratikshit.</h1>
+<h3 align="center">Building the Data Future</h3>
+# Hi, I'm a Data Engineer 👋
 
 I am currently working as a **Digital Specialist Engineer** at **Infosys**, specializing in the Databricks ecosystem. I build scalable data pipelines and enjoy solving complex engineering problems using PySpark, Python and SQL.
 
