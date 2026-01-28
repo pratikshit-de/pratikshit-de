@@ -4,7 +4,8 @@
 
 <h1 align="center">👋 Hi, I'm Pratikshit.</h1>
 <h3 align="center">Building the Data Future</h3>
-# Hi, I'm a Data Engineer 👋
+
+## Hi, I'm a Data Engineer 👋
 
 I am currently working as a **Digital Specialist Engineer** at **Infosys**, specializing in the Databricks ecosystem. I build scalable data pipelines and enjoy solving complex engineering problems using PySpark, Python and SQL.
 
